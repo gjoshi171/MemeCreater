@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/joshi/AndroidStudioProjects/MemeCreater/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/MemeCreater/app/src/main/res/layout/fragment_meme_template.xml" value="0.25" />
+        <entry key="..\:/Users/joshi/AndroidStudioProjects/MemeCreater/app/src/main/res/layout/fragment_rendered_meme.xml" value="0.25" />
       </map>
     </option>
   </component>
