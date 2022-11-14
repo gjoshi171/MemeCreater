@@ -93,8 +93,8 @@ class ImgFlipExecutor {
     }
 
     companion object {
-        private  const val USERNAME = "abc"
-        private  const val PASSWORD = "abc"
+        private  const val USERNAME = "GJSH"
+        private  const val PASSWORD = "Memecreater123"
     }
 
 }

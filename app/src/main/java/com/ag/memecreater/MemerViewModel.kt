@@ -29,11 +29,13 @@ class MemerViewModel :ViewModel() {
 
     fun increaseTemplateIndex(): Int{
         this.setTemplate(this.templateIndex + 1)
+        this.keepTemplateIndexInBounds()
         return this.templateIndex
 
     }
     fun decreaseTemplateIndex(): Int{
         this.setTemplate(this.templateIndex - 1)
+        this.keepTemplateIndexInBounds()
         return this.templateIndex
     }
 
