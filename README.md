@@ -1,7 +1,11 @@
 # Project: MemeCreater
 
 
-# Description: 
+# Description:
+- Consumed Imgflip open API to generate a meme by selecting different meme templates and adding custom text.
+- Used retrofit to map the API response.
+- Used Picasso to render the image response from the API 
+- Created different UI fragments to get user input and display the rendered meme image.
 
 
 
